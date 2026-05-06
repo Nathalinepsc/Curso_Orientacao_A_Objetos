@@ -1,0 +1,14 @@
+C:\Projetos\Orientacao_a_Objeto\03Exercicio\obj\Debug\net10.0\03Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Orientacao_a_Objeto\03Exercicio\obj\Debug\net10.0\03Exercicio.AssemblyInfoInputs.cache
+C:\Projetos\Orientacao_a_Objeto\03Exercicio\obj\Debug\net10.0\03Exercicio.AssemblyInfo.cs
+C:\Projetos\Orientacao_a_Objeto\03Exercicio\obj\Debug\net10.0\03Exercicio.csproj.CoreCompileInputs.cache
+C:\Projetos\Orientacao_a_Objeto\03Exercicio\bin\Debug\net10.0\03Exercicio.exe
+C:\Projetos\Orientacao_a_Objeto\03Exercicio\bin\Debug\net10.0\03Exercicio.deps.json
+C:\Projetos\Orientacao_a_Objeto\03Exercicio\bin\Debug\net10.0\03Exercicio.runtimeconfig.json
+C:\Projetos\Orientacao_a_Objeto\03Exercicio\bin\Debug\net10.0\03Exercicio.dll
+C:\Projetos\Orientacao_a_Objeto\03Exercicio\bin\Debug\net10.0\03Exercicio.pdb
+C:\Projetos\Orientacao_a_Objeto\03Exercicio\obj\Debug\net10.0\03Exercicio.dll
+C:\Projetos\Orientacao_a_Objeto\03Exercicio\obj\Debug\net10.0\refint\03Exercicio.dll
+C:\Projetos\Orientacao_a_Objeto\03Exercicio\obj\Debug\net10.0\03Exercicio.pdb
+C:\Projetos\Orientacao_a_Objeto\03Exercicio\obj\Debug\net10.0\03Exercicio.genruntimeconfig.cache
+C:\Projetos\Orientacao_a_Objeto\03Exercicio\obj\Debug\net10.0\ref\03Exercicio.dll
