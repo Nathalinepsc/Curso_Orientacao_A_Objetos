@@ -1,0 +1,15 @@
+C:\Projetos\Orientacao_a_Objeto\04ExercicioIMC\bin\Debug\net10.0\04ExercicioIMC.exe
+C:\Projetos\Orientacao_a_Objeto\04ExercicioIMC\bin\Debug\net10.0\04ExercicioIMC.deps.json
+C:\Projetos\Orientacao_a_Objeto\04ExercicioIMC\bin\Debug\net10.0\04ExercicioIMC.runtimeconfig.json
+C:\Projetos\Orientacao_a_Objeto\04ExercicioIMC\bin\Debug\net10.0\04ExercicioIMC.dll
+C:\Projetos\Orientacao_a_Objeto\04ExercicioIMC\bin\Debug\net10.0\04ExercicioIMC.pdb
+C:\Projetos\Orientacao_a_Objeto\04ExercicioIMC\obj\Debug\net10.0\04ExercicioIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Orientacao_a_Objeto\04ExercicioIMC\obj\Debug\net10.0\04ExercicioIMC.AssemblyInfoInputs.cache
+C:\Projetos\Orientacao_a_Objeto\04ExercicioIMC\obj\Debug\net10.0\04ExercicioIMC.AssemblyInfo.cs
+C:\Projetos\Orientacao_a_Objeto\04ExercicioIMC\obj\Debug\net10.0\04ExercicioIMC.csproj.CoreCompileInputs.cache
+C:\Projetos\Orientacao_a_Objeto\04ExercicioIMC\obj\Debug\net10.0\04ExercicioIMC.sourcelink.json
+C:\Projetos\Orientacao_a_Objeto\04ExercicioIMC\obj\Debug\net10.0\04ExercicioIMC.dll
+C:\Projetos\Orientacao_a_Objeto\04ExercicioIMC\obj\Debug\net10.0\refint\04ExercicioIMC.dll
+C:\Projetos\Orientacao_a_Objeto\04ExercicioIMC\obj\Debug\net10.0\04ExercicioIMC.pdb
+C:\Projetos\Orientacao_a_Objeto\04ExercicioIMC\obj\Debug\net10.0\04ExercicioIMC.genruntimeconfig.cache
+C:\Projetos\Orientacao_a_Objeto\04ExercicioIMC\obj\Debug\net10.0\ref\04ExercicioIMC.dll
