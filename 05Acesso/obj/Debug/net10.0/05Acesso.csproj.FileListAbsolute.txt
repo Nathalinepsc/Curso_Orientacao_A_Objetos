@@ -1,0 +1,15 @@
+C:\Projetos\Orientacao_a_Objeto\05Acesso\bin\Debug\net10.0\05Acesso.exe
+C:\Projetos\Orientacao_a_Objeto\05Acesso\bin\Debug\net10.0\05Acesso.deps.json
+C:\Projetos\Orientacao_a_Objeto\05Acesso\bin\Debug\net10.0\05Acesso.runtimeconfig.json
+C:\Projetos\Orientacao_a_Objeto\05Acesso\bin\Debug\net10.0\05Acesso.dll
+C:\Projetos\Orientacao_a_Objeto\05Acesso\bin\Debug\net10.0\05Acesso.pdb
+C:\Projetos\Orientacao_a_Objeto\05Acesso\obj\Debug\net10.0\05Acesso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Orientacao_a_Objeto\05Acesso\obj\Debug\net10.0\05Acesso.AssemblyInfoInputs.cache
+C:\Projetos\Orientacao_a_Objeto\05Acesso\obj\Debug\net10.0\05Acesso.AssemblyInfo.cs
+C:\Projetos\Orientacao_a_Objeto\05Acesso\obj\Debug\net10.0\05Acesso.csproj.CoreCompileInputs.cache
+C:\Projetos\Orientacao_a_Objeto\05Acesso\obj\Debug\net10.0\05Acesso.sourcelink.json
+C:\Projetos\Orientacao_a_Objeto\05Acesso\obj\Debug\net10.0\05Acesso.dll
+C:\Projetos\Orientacao_a_Objeto\05Acesso\obj\Debug\net10.0\refint\05Acesso.dll
+C:\Projetos\Orientacao_a_Objeto\05Acesso\obj\Debug\net10.0\05Acesso.pdb
+C:\Projetos\Orientacao_a_Objeto\05Acesso\obj\Debug\net10.0\05Acesso.genruntimeconfig.cache
+C:\Projetos\Orientacao_a_Objeto\05Acesso\obj\Debug\net10.0\ref\05Acesso.dll
