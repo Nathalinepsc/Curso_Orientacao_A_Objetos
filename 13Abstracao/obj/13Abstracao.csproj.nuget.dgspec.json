@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Projetos\\Orientacao_a_Objeto\\12Estatico\\12Estatico.csproj": {}
+    "C:\\Projetos\\Orientacao_a_Objeto\\13Abstracao\\13Abstracao.csproj": {}
   },
   "projects": {
-    "c:\\Projetos\\Orientacao_a_Objeto\\12Estatico\\12Estatico.csproj": {
+    "C:\\Projetos\\Orientacao_a_Objeto\\13Abstracao\\13Abstracao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Projetos\\Orientacao_a_Objeto\\12Estatico\\12Estatico.csproj",
-        "projectName": "12Estatico",
-        "projectPath": "c:\\Projetos\\Orientacao_a_Objeto\\12Estatico\\12Estatico.csproj",
+        "projectUniqueName": "C:\\Projetos\\Orientacao_a_Objeto\\13Abstracao\\13Abstracao.csproj",
+        "projectName": "13Abstracao",
+        "projectPath": "C:\\Projetos\\Orientacao_a_Objeto\\13Abstracao\\13Abstracao.csproj",
         "packagesPath": "C:\\Users\\Anderson\\.nuget\\packages\\",
-        "outputPath": "c:\\Projetos\\Orientacao_a_Objeto\\12Estatico\\obj\\",
+        "outputPath": "C:\\Projetos\\Orientacao_a_Objeto\\13Abstracao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anderson\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,15 @@
+C:\Projetos\Orientacao_a_Objeto\13Abstracao\bin\Debug\net10.0\13Abstracao.exe
+C:\Projetos\Orientacao_a_Objeto\13Abstracao\bin\Debug\net10.0\13Abstracao.deps.json
+C:\Projetos\Orientacao_a_Objeto\13Abstracao\bin\Debug\net10.0\13Abstracao.runtimeconfig.json
+C:\Projetos\Orientacao_a_Objeto\13Abstracao\bin\Debug\net10.0\13Abstracao.dll
+C:\Projetos\Orientacao_a_Objeto\13Abstracao\bin\Debug\net10.0\13Abstracao.pdb
+C:\Projetos\Orientacao_a_Objeto\13Abstracao\obj\Debug\net10.0\13Abstracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Orientacao_a_Objeto\13Abstracao\obj\Debug\net10.0\13Abstracao.AssemblyInfoInputs.cache
+C:\Projetos\Orientacao_a_Objeto\13Abstracao\obj\Debug\net10.0\13Abstracao.AssemblyInfo.cs
+C:\Projetos\Orientacao_a_Objeto\13Abstracao\obj\Debug\net10.0\13Abstracao.csproj.CoreCompileInputs.cache
+C:\Projetos\Orientacao_a_Objeto\13Abstracao\obj\Debug\net10.0\13Abstracao.sourcelink.json
+C:\Projetos\Orientacao_a_Objeto\13Abstracao\obj\Debug\net10.0\13Abstracao.dll
+C:\Projetos\Orientacao_a_Objeto\13Abstracao\obj\Debug\net10.0\refint\13Abstracao.dll
+C:\Projetos\Orientacao_a_Objeto\13Abstracao\obj\Debug\net10.0\13Abstracao.pdb
+C:\Projetos\Orientacao_a_Objeto\13Abstracao\obj\Debug\net10.0\13Abstracao.genruntimeconfig.cache
+C:\Projetos\Orientacao_a_Objeto\13Abstracao\obj\Debug\net10.0\ref\13Abstracao.dll
