@@ -1,0 +1,15 @@
+C:\Projetos\Orientacao_a_Objeto\10Heranca\bin\Debug\net10.0\10Heranca.exe
+C:\Projetos\Orientacao_a_Objeto\10Heranca\bin\Debug\net10.0\10Heranca.deps.json
+C:\Projetos\Orientacao_a_Objeto\10Heranca\bin\Debug\net10.0\10Heranca.runtimeconfig.json
+C:\Projetos\Orientacao_a_Objeto\10Heranca\bin\Debug\net10.0\10Heranca.dll
+C:\Projetos\Orientacao_a_Objeto\10Heranca\bin\Debug\net10.0\10Heranca.pdb
+C:\Projetos\Orientacao_a_Objeto\10Heranca\obj\Debug\net10.0\10Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Orientacao_a_Objeto\10Heranca\obj\Debug\net10.0\10Heranca.AssemblyInfoInputs.cache
+C:\Projetos\Orientacao_a_Objeto\10Heranca\obj\Debug\net10.0\10Heranca.AssemblyInfo.cs
+C:\Projetos\Orientacao_a_Objeto\10Heranca\obj\Debug\net10.0\10Heranca.csproj.CoreCompileInputs.cache
+C:\Projetos\Orientacao_a_Objeto\10Heranca\obj\Debug\net10.0\10Heranca.sourcelink.json
+C:\Projetos\Orientacao_a_Objeto\10Heranca\obj\Debug\net10.0\10Heranca.dll
+C:\Projetos\Orientacao_a_Objeto\10Heranca\obj\Debug\net10.0\refint\10Heranca.dll
+C:\Projetos\Orientacao_a_Objeto\10Heranca\obj\Debug\net10.0\10Heranca.pdb
+C:\Projetos\Orientacao_a_Objeto\10Heranca\obj\Debug\net10.0\10Heranca.genruntimeconfig.cache
+C:\Projetos\Orientacao_a_Objeto\10Heranca\obj\Debug\net10.0\ref\10Heranca.dll
