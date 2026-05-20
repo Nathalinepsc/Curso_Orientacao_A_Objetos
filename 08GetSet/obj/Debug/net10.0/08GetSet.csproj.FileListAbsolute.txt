@@ -1,0 +1,15 @@
+C:\Projetos\Orientacao_a_Objeto\08GetSet\bin\Debug\net10.0\08GetSet.exe
+C:\Projetos\Orientacao_a_Objeto\08GetSet\bin\Debug\net10.0\08GetSet.deps.json
+C:\Projetos\Orientacao_a_Objeto\08GetSet\bin\Debug\net10.0\08GetSet.runtimeconfig.json
+C:\Projetos\Orientacao_a_Objeto\08GetSet\bin\Debug\net10.0\08GetSet.dll
+C:\Projetos\Orientacao_a_Objeto\08GetSet\bin\Debug\net10.0\08GetSet.pdb
+C:\Projetos\Orientacao_a_Objeto\08GetSet\obj\Debug\net10.0\08GetSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Orientacao_a_Objeto\08GetSet\obj\Debug\net10.0\08GetSet.AssemblyInfoInputs.cache
+C:\Projetos\Orientacao_a_Objeto\08GetSet\obj\Debug\net10.0\08GetSet.AssemblyInfo.cs
+C:\Projetos\Orientacao_a_Objeto\08GetSet\obj\Debug\net10.0\08GetSet.csproj.CoreCompileInputs.cache
+C:\Projetos\Orientacao_a_Objeto\08GetSet\obj\Debug\net10.0\08GetSet.sourcelink.json
+C:\Projetos\Orientacao_a_Objeto\08GetSet\obj\Debug\net10.0\08GetSet.dll
+C:\Projetos\Orientacao_a_Objeto\08GetSet\obj\Debug\net10.0\refint\08GetSet.dll
+C:\Projetos\Orientacao_a_Objeto\08GetSet\obj\Debug\net10.0\08GetSet.pdb
+C:\Projetos\Orientacao_a_Objeto\08GetSet\obj\Debug\net10.0\08GetSet.genruntimeconfig.cache
+C:\Projetos\Orientacao_a_Objeto\08GetSet\obj\Debug\net10.0\ref\08GetSet.dll
