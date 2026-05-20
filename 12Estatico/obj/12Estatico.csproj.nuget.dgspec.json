@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Projetos\\Orientacao_a_Objeto\\11Polimorfismo\\11Polimorfismo.csproj": {}
+    "C:\\Projetos\\Orientacao_a_Objeto\\12Estatico\\12Estatico.csproj": {}
   },
   "projects": {
-    "c:\\Projetos\\Orientacao_a_Objeto\\11Polimorfismo\\11Polimorfismo.csproj": {
+    "C:\\Projetos\\Orientacao_a_Objeto\\12Estatico\\12Estatico.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Projetos\\Orientacao_a_Objeto\\11Polimorfismo\\11Polimorfismo.csproj",
-        "projectName": "11Polimorfismo",
-        "projectPath": "c:\\Projetos\\Orientacao_a_Objeto\\11Polimorfismo\\11Polimorfismo.csproj",
+        "projectUniqueName": "C:\\Projetos\\Orientacao_a_Objeto\\12Estatico\\12Estatico.csproj",
+        "projectName": "12Estatico",
+        "projectPath": "C:\\Projetos\\Orientacao_a_Objeto\\12Estatico\\12Estatico.csproj",
         "packagesPath": "C:\\Users\\Anderson\\.nuget\\packages\\",
-        "outputPath": "c:\\Projetos\\Orientacao_a_Objeto\\11Polimorfismo\\obj\\",
+        "outputPath": "C:\\Projetos\\Orientacao_a_Objeto\\12Estatico\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anderson\\AppData\\Roaming\\NuGet\\NuGet.Config"
