@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Projetos\\Orientacao_a_Objeto\\13Abstracao\\13Abstracao.csproj": {}
+    "C:\\Projetos\\Orientacao_a_Objeto\\14Interface\\14Interface.csproj": {}
   },
   "projects": {
-    "c:\\Projetos\\Orientacao_a_Objeto\\13Abstracao\\13Abstracao.csproj": {
+    "C:\\Projetos\\Orientacao_a_Objeto\\14Interface\\14Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Projetos\\Orientacao_a_Objeto\\13Abstracao\\13Abstracao.csproj",
-        "projectName": "13Abstracao",
-        "projectPath": "c:\\Projetos\\Orientacao_a_Objeto\\13Abstracao\\13Abstracao.csproj",
+        "projectUniqueName": "C:\\Projetos\\Orientacao_a_Objeto\\14Interface\\14Interface.csproj",
+        "projectName": "14Interface",
+        "projectPath": "C:\\Projetos\\Orientacao_a_Objeto\\14Interface\\14Interface.csproj",
         "packagesPath": "C:\\Users\\Anderson\\.nuget\\packages\\",
-        "outputPath": "c:\\Projetos\\Orientacao_a_Objeto\\13Abstracao\\obj\\",
+        "outputPath": "C:\\Projetos\\Orientacao_a_Objeto\\14Interface\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anderson\\AppData\\Roaming\\NuGet\\NuGet.Config"
