@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Construtor
+namespace _07Construtor
 {
     class Program
     {

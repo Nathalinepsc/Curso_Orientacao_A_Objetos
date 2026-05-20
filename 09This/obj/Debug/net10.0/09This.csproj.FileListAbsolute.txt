@@ -1,0 +1,15 @@
+C:\Projetos\Orientacao_a_Objeto\09This\bin\Debug\net10.0\09This.exe
+C:\Projetos\Orientacao_a_Objeto\09This\bin\Debug\net10.0\09This.deps.json
+C:\Projetos\Orientacao_a_Objeto\09This\bin\Debug\net10.0\09This.runtimeconfig.json
+C:\Projetos\Orientacao_a_Objeto\09This\bin\Debug\net10.0\09This.dll
+C:\Projetos\Orientacao_a_Objeto\09This\bin\Debug\net10.0\09This.pdb
+C:\Projetos\Orientacao_a_Objeto\09This\obj\Debug\net10.0\09This.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Orientacao_a_Objeto\09This\obj\Debug\net10.0\09This.AssemblyInfoInputs.cache
+C:\Projetos\Orientacao_a_Objeto\09This\obj\Debug\net10.0\09This.AssemblyInfo.cs
+C:\Projetos\Orientacao_a_Objeto\09This\obj\Debug\net10.0\09This.csproj.CoreCompileInputs.cache
+C:\Projetos\Orientacao_a_Objeto\09This\obj\Debug\net10.0\09This.sourcelink.json
+C:\Projetos\Orientacao_a_Objeto\09This\obj\Debug\net10.0\09This.dll
+C:\Projetos\Orientacao_a_Objeto\09This\obj\Debug\net10.0\refint\09This.dll
+C:\Projetos\Orientacao_a_Objeto\09This\obj\Debug\net10.0\09This.pdb
+C:\Projetos\Orientacao_a_Objeto\09This\obj\Debug\net10.0\09This.genruntimeconfig.cache
+C:\Projetos\Orientacao_a_Objeto\09This\obj\Debug\net10.0\ref\09This.dll

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace GetSet
+namespace _08GetSet
 {
     class Program
     {

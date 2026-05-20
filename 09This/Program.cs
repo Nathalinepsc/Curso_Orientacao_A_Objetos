@@ -1,13 +1,12 @@
 ﻿using System;
 
-namespace _06Encapsulamento
+namespace _09This
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Aluno aluno1 = new Aluno();
-            aluno1.mensagem();
+            Pessoa pessoa1 = new Pessoa("João");        
         }
     }
 }
