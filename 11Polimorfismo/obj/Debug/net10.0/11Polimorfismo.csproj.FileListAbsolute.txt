@@ -1,0 +1,15 @@
+C:\Projetos\Orientacao_a_Objeto\11Polimorfismo\bin\Debug\net10.0\11Polimorfismo.exe
+C:\Projetos\Orientacao_a_Objeto\11Polimorfismo\bin\Debug\net10.0\11Polimorfismo.deps.json
+C:\Projetos\Orientacao_a_Objeto\11Polimorfismo\bin\Debug\net10.0\11Polimorfismo.runtimeconfig.json
+C:\Projetos\Orientacao_a_Objeto\11Polimorfismo\bin\Debug\net10.0\11Polimorfismo.dll
+C:\Projetos\Orientacao_a_Objeto\11Polimorfismo\bin\Debug\net10.0\11Polimorfismo.pdb
+C:\Projetos\Orientacao_a_Objeto\11Polimorfismo\obj\Debug\net10.0\11Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Orientacao_a_Objeto\11Polimorfismo\obj\Debug\net10.0\11Polimorfismo.AssemblyInfoInputs.cache
+C:\Projetos\Orientacao_a_Objeto\11Polimorfismo\obj\Debug\net10.0\11Polimorfismo.AssemblyInfo.cs
+C:\Projetos\Orientacao_a_Objeto\11Polimorfismo\obj\Debug\net10.0\11Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Projetos\Orientacao_a_Objeto\11Polimorfismo\obj\Debug\net10.0\11Polimorfismo.sourcelink.json
+C:\Projetos\Orientacao_a_Objeto\11Polimorfismo\obj\Debug\net10.0\11Polimorfismo.dll
+C:\Projetos\Orientacao_a_Objeto\11Polimorfismo\obj\Debug\net10.0\refint\11Polimorfismo.dll
+C:\Projetos\Orientacao_a_Objeto\11Polimorfismo\obj\Debug\net10.0\11Polimorfismo.pdb
+C:\Projetos\Orientacao_a_Objeto\11Polimorfismo\obj\Debug\net10.0\11Polimorfismo.genruntimeconfig.cache
+C:\Projetos\Orientacao_a_Objeto\11Polimorfismo\obj\Debug\net10.0\ref\11Polimorfismo.dll

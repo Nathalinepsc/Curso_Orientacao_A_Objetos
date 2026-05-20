@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Projetos\\Orientacao_a_Objeto\\10Heranca\\10Heranca.csproj": {}
+    "C:\\Projetos\\Orientacao_a_Objeto\\11Polimorfismo\\11Polimorfismo.csproj": {}
   },
   "projects": {
-    "c:\\Projetos\\Orientacao_a_Objeto\\10Heranca\\10Heranca.csproj": {
+    "C:\\Projetos\\Orientacao_a_Objeto\\11Polimorfismo\\11Polimorfismo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Projetos\\Orientacao_a_Objeto\\10Heranca\\10Heranca.csproj",
-        "projectName": "10Heranca",
-        "projectPath": "c:\\Projetos\\Orientacao_a_Objeto\\10Heranca\\10Heranca.csproj",
+        "projectUniqueName": "C:\\Projetos\\Orientacao_a_Objeto\\11Polimorfismo\\11Polimorfismo.csproj",
+        "projectName": "11Polimorfismo",
+        "projectPath": "C:\\Projetos\\Orientacao_a_Objeto\\11Polimorfismo\\11Polimorfismo.csproj",
         "packagesPath": "C:\\Users\\Anderson\\.nuget\\packages\\",
-        "outputPath": "c:\\Projetos\\Orientacao_a_Objeto\\10Heranca\\obj\\",
+        "outputPath": "C:\\Projetos\\Orientacao_a_Objeto\\11Polimorfismo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anderson\\AppData\\Roaming\\NuGet\\NuGet.Config"
